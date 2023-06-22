@@ -1,0 +1,32 @@
+# OS or Editor files #
+._*
+.DS_Store
+Thumbs.db
+.vim-bookmarks
+.cache
+.settings
+.idea
+.project
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+
+# NPM
+.npmignore
+
+# Logs and databases #
+*.log
+*.sqlite
+
+# Dependency Managers #
+node_modules
+
+# Locally Built Stuff #
+coverage
+reports
+conf
+dist
+.turbo
+
